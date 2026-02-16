@@ -12,11 +12,9 @@ oi, meu nome é Fabio Enedino, sou um programador Front End e aluno do devClub e
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioenedino)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-   -  <img align="left" alt="Coding" width="800"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s0OWd4b3U2cndldGo1ODI5NDUwaG5sbndwdzFyNW1uOXN4bWtuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
+   -  <img align="left" alt="Coding" width="1200"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s0OWd4b3U2cndldGo1ODI5NDUwaG5sbndwdzFyNW1uOXN4bWtuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 
 
