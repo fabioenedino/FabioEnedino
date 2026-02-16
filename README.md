@@ -1,13 +1,21 @@
 ## Hi there 👋
 
-oi, meu nome é Fabio Enedino, sou aluno do devClub estou aprendendo e criando projetos com: <br> <br>
+oi, meu nome é Fabio Enedino, sou um programador Front End e aluno do devClub estou aprendendo e criando projetos com: <br> <br>
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html.logo" /> <br>
+
   
- ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css.logo" /> <br>
 
 
- [![Fabio Enedino stats](https://github-readme-stats.vercel.app/api?username=FabioEnedino)](https://github.com/anuraghazra/github-readme-stats)
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-JavaScript" /> <br>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioEnedino)](https://github.com/anuraghazra/github-readme-stats)
+
+   -  <img align="left" alt="Coding" width="800"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s0OWd4b3U2cndldGo1ODI5NDUwaG5sbndwdzFyNW1uOXN4bWtuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
+
+
+
+
+  
+  
