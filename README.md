@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-oi, meu nome é Fabio Enedino, sou um programador Front End e aluno do devClub estou aprendendo e criando projetos com: <br> <br>
+oi, meu nome é Fabio Enedino, sou um desenvolvedor Front End e aluno do devClub estou aprendendo e criando projetos com: <br> <br>
 
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html.logo" /> <br>
 
